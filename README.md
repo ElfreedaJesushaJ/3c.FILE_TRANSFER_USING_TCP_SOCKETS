@@ -66,11 +66,11 @@ start_client()
 ```
 ## OUTPUT
 ### SERVER
-![image](https://github.com/user-attachments/assets/85d48a50-1608-44d1-9448-c71449012a82)
+<img width="789" height="152" alt="cn3c s" src="https://github.com/user-attachments/assets/28adf2c7-ba21-42f7-99d7-f4a2839598e5" />
 
 
 ### CLIENT
-![image](https://github.com/user-attachments/assets/19d0a405-6e2f-4aea-9cba-68afdb2c7c88)
+<img width="804" height="149" alt="cn3c c" src="https://github.com/user-attachments/assets/0dc8cf2c-237f-4b0d-8e08-3cc045ded169" />
 
 
 ## RESULT
